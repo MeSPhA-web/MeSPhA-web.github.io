@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-### Medical Statistics, Philosophy and Art
+### Medical Statistics, Philosophy and Art (MeSPhA)
 
-"Medical Statistics, Philosophy and Art" is an online, open-access, cross-disciplinary magazine that brings together leading experts in biostatistics, medicine, philosophy and the arts — especially those working at their intersections — to rethink and revitalise the foundations of medical statistics, a discipline central to global health.
+*Medical Statistics, Philosophy and Art* (MeSPhA) is an online, open-access, cross-disciplinary magazine that brings together leading experts in biostatistics, medicine, philosophy and art — especially those working at their intersections — to rethink and revitalise the foundations of medical statistics, a discipline central to global health.
 
 #### Editorial Board
 The Editorial Board selects the topics for each issue and invites the authors who will write them.
