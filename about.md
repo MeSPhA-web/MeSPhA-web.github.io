@@ -24,5 +24,5 @@ Email: <a href="mailto:{{site.email}}?Subject=From Blog Site:">{{site.email}}</a
 - Format: Invitation-only, non–peer-reviewed essays.
 - Editorial process: The Board defines each issue’s topic and commissions the authors; unsolicited submissions are not accepted.  
 - Current status: We are contacting potential members of the Editorial Board.  
-- Proposed inaugural piece (subject to Board approval): an essay on Bruno de Finetti and how his philosophical work (L'invenzione della verita') shaped subjective probability, transforming statistical thought (the title could be "De Finetti, Subjective Probability, and the Limits of Objectivity”). The piece could take the form of a dialog between two authors, a philosopher who worked on De Finetti’s philosophical book “L’invenzione della verità” and a statisticians expert on De Finetti statistical framework.
+- Proposed inaugural piece (subject to Board approval): an essay on Bruno de Finetti and how his philosophical work (L'invenzione della verita') shaped subjective probability, transforming statistical thought (the title could be "De Finetti, Subjective Probability, and the Limits of Objectivity”). The piece could take the form of a dialog between two authors, a philosopher who worked on De Finetti’s philosophical book “L’invenzione della verità” and a statistician expert on De Finetti statistical framework.
 
