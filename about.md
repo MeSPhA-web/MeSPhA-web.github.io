@@ -13,7 +13,7 @@ The Editorial Board selects the topics for each issue and invites the authors wh
 - Biostatistics: [Stephen Senn](https://senns.uk/Consult.htm) (provisional)
 - Medicine: to be confirmed
 - Philosophy: to be confirmed
-- Arts: to be confirmed
+- Art: [Anna Dimitriu](https://annadumitriu.co.uk/) (provisional)
 
 #### Founder/ Secretary
 [Andrea Callegaro](https://www.researchgate.net/profile/Andrea-Callegaro)
