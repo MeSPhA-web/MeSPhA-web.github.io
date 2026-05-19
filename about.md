@@ -26,7 +26,7 @@ The Editorial Board selects the topics for each issue and invites the authors wh
   Interdisciplinary artist working at the intersection of contemporary art, science and biotechnology. Anna's practice explores themes of infection, microbiology and the cultural implications of biomedical technologies.
 
 #### Founder / Secretary of MeSPhA
-- ![Andrea Callegaro](static/img//andrea-callegaro.png){:style="width:100px;height:100px;border-radius:50%;object-fit:cover;"} **[Andrea Callegaro](https://www.researchgate.net/profile/Andrea-Callegaro)**  
+- ![Andrea Callegaro](static/img//andrea-callegaro.png){:style="width:80px;height:80px;border-radius:50%;object-fit:cover;"} **[Andrea Callegaro](https://www.researchgate.net/profile/Andrea-Callegaro)**  
  Statistics Director with over 20 years of experience in biostatistical innovation in pharmaceutical (vaccine) statistics.   
   Email: <a href="mailto:{{site.email}}?Subject=From MeSPhA:"> {{site.email}} </a>
 
