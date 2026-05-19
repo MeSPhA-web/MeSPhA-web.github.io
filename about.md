@@ -22,7 +22,7 @@ The Editorial Board selects the topics for each issue and invites the authors wh
   Position to be filled. We will add photo, short bio and personal webpage once confirmed.
   
 **Art**  
-- ![Anna Dumitriu](static/img/Anne.jpeg){:style="width:80px;height:80px;border-radius:50%;object-fit:cover;"} **[Anna Dumitriu](https://annadumitriu.co.uk/)** (provisional)  
+- ![Anna Dumitriu](static/img/Anna-Dumitriu.jpg){:style="width:80px;height:80px;border-radius:50%;object-fit:cover;"} **[Anna Dumitriu](https://annadumitriu.co.uk/)** (provisional)  
   Interdisciplinary artist working at the intersection of contemporary art, science and biotechnology. Anna's practice explores themes of infection, microbiology and the cultural implications of biomedical technologies.
 
 #### Founder / Secretary of MeSPhA
