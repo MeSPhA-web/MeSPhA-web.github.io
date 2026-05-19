@@ -12,7 +12,7 @@ permalink: /about/
 The Editorial Board selects the topics for each issue and invites the authors who will write them.
 
 **Biostatistics**  
-- ![Stephen Senn](static/img/stephen-senn.jpg){:style="width:80px;height:80px;border-radius:50%;object-fit:cover;"} **[Stephen Senn](https://senns.uk/Consult.htm)** (provisional)  
+- ![Stephen Senn](static/img/Stephen-Senn.jpg){:style="width:80px;height:80px;border-radius:50%;object-fit:cover;"} **[Stephen Senn](https://senns.uk/Consult.htm)** (provisional)  
   Professor of Statistics in Medicine with longstanding expertise in clinical trial methodology, regulatory science and pharmaceutical statistics. Stephen's work focuses on improving inference in drug development and promoting rigorous statistical practice.
 
 **Medicine — to be confirmed**  
