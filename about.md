@@ -11,7 +11,8 @@ permalink: /about/
 #### Editorial Board
 The Editorial Board selects the topics for each issue and invites the authors who will write them.
 
-- ![Stephen Senn](static/img/stephen-senn.jpg){:style="width:80px;height:80px;border-radius:50%;object-fit:cover;"} **[Stephen Senn](https://senns.uk/Consult.htm)** (Biostatistics, provisional)  
+**Biostatistics**  
+- ![Stephen Senn](static/img/stephen-senn.jpg){:style="width:80px;height:80px;border-radius:50%;object-fit:cover;"} **[Stephen Senn](https://senns.uk/Consult.htm)** (provisional)  
   Professor of Statistics in Medicine with longstanding expertise in clinical trial methodology, regulatory science and pharmaceutical statistics. Stephen's work focuses on improving inference in drug development and promoting rigorous statistical practice.
 
 **Medicine — to be confirmed**  
@@ -19,8 +20,9 @@ The Editorial Board selects the topics for each issue and invites the authors wh
 
 **Philosophy — to be confirmed**  
   Position to be filled. We will add photo, short bio and personal webpage once confirmed.
-
-- ![Anna Dumitriu](static/img/Anne.jpeg){:style="width:80px;height:80px;border-radius:50%;object-fit:cover;"} **[Anna Dumitriu](https://annadumitriu.co.uk/)** (Art, provisional)  
+  
+**Art**  
+- ![Anna Dumitriu](static/img/Anne.jpeg){:style="width:80px;height:80px;border-radius:50%;object-fit:cover;"} **[Anna Dumitriu](https://annadumitriu.co.uk/)** (provisional)  
   Interdisciplinary artist working at the intersection of contemporary art, science and biotechnology. Anna's practice explores themes of infection, microbiology and the cultural implications of biomedical technologies.
 
 #### Founder / Secretary of MeSPhA
