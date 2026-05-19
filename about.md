@@ -25,12 +25,16 @@ The Editorial Board selects the topics for each issue and invites the authors wh
 - ![Anna Dumitriu](static/img/Anna-Dumitriu.jpg){:style="width:80px;height:80px;border-radius:50%;object-fit:cover;"} **[Anna Dumitriu](https://annadumitriu.co.uk/)** (provisional)  
   Interdisciplinary artist working at the intersection of contemporary art, science and biotechnology. Anna's practice explores themes of infection, microbiology and the cultural implications of biomedical technologies.
 
+
+
+
 #### Founder / Secretary of MeSPhA
 - ![Andrea Callegaro](static/img//andrea-callegaro.png){:style="width:80px;height:80px;border-radius:50%;object-fit:cover;"} **[Andrea Callegaro](https://www.researchgate.net/profile/Andrea-Callegaro)**  
- Statistics Director with over 20 years of experience in biostatistical innovation in pharmaceutical (vaccine) statistics.   
+Statistics Director with more than 20 years’ experience driving biostatistical innovation in pharmaceutical development, with a strong focus on vaccines.
+  
   Email: <a href="mailto:{{site.email}}?Subject=From MeSPhA:"> {{site.email}} </a>
 
-#### Details
+#### Details about the magazine
 - Format: Invitation-only, non–peer-reviewed essays.  
 - Editorial process: The Board defines each issue’s topic and commissions the authors; unsolicited submissions are not accepted.  
 - Current status: We are contacting potential members of the Editorial Board.  
