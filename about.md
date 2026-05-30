@@ -18,14 +18,13 @@ The Editorial Board selects the topics for each issue and invites the authors wh
 **Medicine — to be confirmed**  
   Position to be filled. We will add photo, short bio and personal webpage once confirmed.
 
-**Philosophy — to be confirmed**  
-  Position to be filled. We will add photo, short bio and personal webpage once confirmed.
-  
-**Art**  
+**Philosophy**  
 - ![Anna Dumitriu](static/img/Anna-Dumitriu.jpg){:style="width:80px;height:80px;border-radius:50%;object-fit:cover;"} **[Anna Dumitriu](https://annadumitriu.co.uk/)** (provisional)  
   Interdisciplinary artist working at the intersection of contemporary art, science and biotechnology. Anna's practice explores themes of infection, microbiology and the cultural implications of biomedical technologies.
-
-
+  
+**Art**  
+- ![Deborah G. Mayo](static/img/deborah.jpg){:style="width:80px;height:80px;border-radius:50%;object-fit:cover;"} **[Deborah G. Mayo]([https://annadumitriu.co.uk/](https://liberalarts.vt.edu/departments-and-schools/department-of-philosophy/faculty/deborah-mayo.html)**
+American philosopher of science and Professor Emerita in the Department of Philosophy at Virginia Tech. She is globally recognized for her work on the foundations of statistical inference and experimental epistemology.
 
 
 #### Founder / Secretary of MeSPhA
