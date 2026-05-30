@@ -18,7 +18,8 @@ The Editorial Board selects the topics for each issue and invites the authors wh
 **Medicine — to be confirmed**  
 
 **Philosophy**  
-- ![Deborah G. Mayo](static/img/deborah.jpg){:style="width:80px;height:80px;border-radius:50%;object-fit:cover;"} **[Deborah G. Mayo](https://liberalarts.vt.edu/departments-and-schools/department-of-philosophy/faculty/deborah-mayo.html)** (provisional)
+- ![Deborah G. Mayo](static/img/deborah.jpg){:style="width:80px;height:80px;border-radius:50%;object-fit:cover;"} **[Deborah G. Mayo](https://liberalarts.vt.edu/departments-and-schools/department-of-philosophy/faculty/deborah-mayo.html)**
+
   Philosopher of science and Professor Emerita in the Department of Philosophy at Virginia Tech. She is globally recognized for her work on the foundations of statistical inference and experimental epistemology.
 
 **Art**  
