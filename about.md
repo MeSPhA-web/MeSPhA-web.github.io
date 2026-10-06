@@ -42,7 +42,6 @@ Statistics Director with more than 20 years’ experience driving biostatistical
 #### Details about the magazine
 - Format: Invitation-only, non–peer-reviewed essays.  
 - Editorial process: The Board defines each issue’s topic and commissions the authors; unsolicited submissions are not accepted.  
-- Current status: We are contacting potential members of the Editorial Board.  
 - Proposed inaugural piece (subject to Board approval): *"The Invention of Truth: de Finetti’s Philosophy and the Rise of Subjective Probability"* — an essay examining how Bruno de Finetti’s philosophical work, summarized in his book *L'invenzione della verità*, established the subjective interpretation of probability and transformed statistical thought.
 
 ---
