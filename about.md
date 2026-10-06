@@ -16,7 +16,7 @@ The Editorial Board selects the topics for each issue and invites the authors wh
   Professor of Statistics in Medicine with longstanding expertise in clinical trial methodology, regulatory science and pharmaceutical statistics. Stephen's work focuses on improving inference in drug development and promoting rigorous statistical practice.
 
 **Medicine**  
-- ![Giovanni della Cioppa](static/img/stephen-in-china.jpg){:style="width:80px;height:80px;border-radius:50%;object-fit:cover;"} **[Giovanni Della Cioppa](https://www.linkedin.com/in/giovanni-della-cioppa-571013a7/?isSelfProfile=false)** 
+- ![Giovanni della Cioppa](static/img/Giovanni Della Cioppa.jpg){:style="width:80px;height:80px;border-radius:50%;object-fit:cover;"} **[Giovanni Della Cioppa](https://www.linkedin.com/in/giovanni-della-cioppa-571013a7/?isSelfProfile=false)** 
 Distinguished physician and global clinical research expert dedicated to advancing vaccinology and public health. He has led the development of critical vaccines against major infectious diseases and served on global boards focused on epidemic preparedness and tech-equity to counter emergencies like COVID-19.
 
 
