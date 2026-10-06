@@ -12,10 +12,13 @@ permalink: /about/
 The Editorial Board selects the topics for each issue and invites the authors who will write them.
 
 **Biostatistics**  
-- ![Stephen Senn](static/img/stephen-in-china.jpg){:style="width:80px;height:80px;border-radius:50%;object-fit:cover;"} **[Stephen Senn](https://senns.uk/Consult.htm)** (provisional)  
+- ![Stephen Senn](static/img/stephen-in-china.jpg){:style="width:80px;height:80px;border-radius:50%;object-fit:cover;"} **[Stephen Senn](https://senns.uk/Consult.htm)**  
   Professor of Statistics in Medicine with longstanding expertise in clinical trial methodology, regulatory science and pharmaceutical statistics. Stephen's work focuses on improving inference in drug development and promoting rigorous statistical practice.
 
-**Medicine — to be confirmed**  
+**Medicine**  
+- ![Giovanni della Cioppa](static/img/stephen-in-china.jpg){:style="width:80px;height:80px;border-radius:50%;object-fit:cover;"} **[Giovanni Della Cioppa](https://www.linkedin.com/in/giovanni-della-cioppa-571013a7/?isSelfProfile=false)** 
+Distinguished physician and global clinical research expert dedicated to advancing vaccinology and public health. He has led the development of critical vaccines against major infectious diseases and served on global boards focused on epidemic preparedness and tech-equity to counter emergencies like COVID-19.
+
 
 **Philosophy**  
 - ![Deborah G. Mayo](static/img/deborah.jpg){:style="width:80px;height:80px;border-radius:50%;object-fit:cover;"} **[Deborah G. Mayo](https://liberalarts.vt.edu/departments-and-schools/department-of-philosophy/faculty/deborah-mayo.html)**
@@ -23,7 +26,7 @@ The Editorial Board selects the topics for each issue and invites the authors wh
   Philosopher of science and Professor Emerita in the Department of Philosophy at Virginia Tech. She is globally recognized for her work on the foundations of statistical inference and experimental epistemology.
 
 **Art**  
-- ![Anna Dumitriu](static/img/Anna-Dumitriu.jpg){:style="width:80px;height:80px;border-radius:50%;object-fit:cover;"} **[Anna Dumitriu](https://annadumitriu.co.uk/)** (provisional)  
+- ![Anna Dumitriu](static/img/Anna-Dumitriu.jpg){:style="width:80px;height:80px;border-radius:50%;object-fit:cover;"} **[Anna Dumitriu](https://annadumitriu.co.uk/)** 
   Interdisciplinary artist working at the intersection of contemporary art, science and biotechnology. Anna's practice explores themes of infection, microbiology and the cultural implications of biomedical technologies.
 
 
